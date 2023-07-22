@@ -69,3 +69,10 @@ Hint      - Get the data for items with no(null) owners
 Challenge - Do you know a trick how to collect all the ownerless items?
 
 Hint      - update all items with no owner to stranger id
+
+#
+`9-task.sql`
+
+Challenge - Now list all of the items I have!
+
+Hint      - get all items with owner as stranger

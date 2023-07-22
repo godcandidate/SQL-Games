@@ -19,46 +19,53 @@ In this repository, it contains the solution to challenges
 Challenge - It seems there are a few people living in these villages. 
 How can I see a list of all inhabitants?
 
-Hint - Get all data from inhabitants
+Hint      - Get all data from inhabitants
 
 #
 `2-task.sql`
 
 Challenge - Thank you, Edward! Okay, let's see who is friendly on this island...
 
-Hint - Get all inhabitants who are friendly
+Hint      - Get all inhabitants who are friendly
 
 #
 `3-task.sql`
 
 Challenge - There is no way around getting a sword for myself.I will now try to find a friendly weaponsmith to forge me one
 
-Hint - Get all inhabitants who are friendly and their job is weaponsmith
+Hint      - Get all inhabitants who are friendly and their job is weaponsmith
 
 #
 `4-task.sql`
 
 Challenge - I want to find other smiths That looks better! I will go and visit those smiths
 
-Hint - Get all inhabitants who are friendly and their job ends with smith
+Hint      - Get all inhabitants who are friendly and their job ends with smith
 
 #
 `5-task.sql`
 
 Challenge - No need to call me stranger! What's my personid?
 
-Hint - Get the personid for inhabitant with name Stranger
+Hint      - Get the personid for inhabitant with name Stranger
 
 #
 `6-task.sql`
 
-Challenge -I can offer to make you a sword for 150 gold. That's the cheapest you will find! How much gold do you have?
+Challenge - I can offer to make you a sword for 150 gold. That's the cheapest you will find! How much gold do you have?
 
-Hint - Get the gold for inhabitant with name Stranger
+Hint      - Get the gold for inhabitant with name Stranger
 
 #
 `7-task.sql`
 
 Challenge - There has to be another option to earn gold other than going to work.Maybe I could collect ownerless items and sell them! Can I make a list of all items that don't belong to anyone?
 
-Hint - Get the data for items with no(null) owners
+Hint      - Get the data for items with no(null) owners
+
+#
+`8-task.sql`
+
+Challenge - Do you know a trick how to collect all the ownerless items?
+
+Hint      - update all items with no owner to stranger id

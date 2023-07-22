@@ -88,7 +88,16 @@ Hint      - get all friendly inhabitant with job as dealer or merchant
 #
 `11-task.sql`
 
-Challenge - -- I'd like to get the ring and the teapot. The rest is nothing but scrap.
+Challenge - I'd like to get the ring and the teapot. The rest is nothing but scrap.
 Please give me the two items. My personid is 15.
 
 Hint      - set the ownership for ring and teaport items to owner with id 15
+
+#
+`12-task.sql`
+
+Challenge - Unfortunately, that's not enough gold to buy a sword. Seems like I do have to work after all. 
+Maybe it's not a bad idea to change my name from Stranger to my real name before I will apply for a job.
+
+
+Hint      - change strangers name to your name(this name will be the name on your certificate)

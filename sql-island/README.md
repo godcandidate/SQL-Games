@@ -20,3 +20,10 @@ Challenge - It seems there are a few people living in these villages.
 How can I see a list of all inhabitants?
 
 Hint - Get all data from inhabitants
+
+#
+`2-task.sql`
+
+Challenge - Thank you, Edward! Okay, let's see who is friendly on this island...
+
+Hint - Get all inhabitants who are friendly

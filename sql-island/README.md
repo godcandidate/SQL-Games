@@ -41,3 +41,10 @@ Hint - Get all inhabitants who are friendly and their job is weaponsmith
 Challenge - I want to find other smiths That looks better! I will go and visit those smiths
 
 Hint - Get all inhabitants who are friendly and their job ends with smith
+
+#
+`5-task.sql`
+
+Challenge - No need to call me stranger! What's my personid?
+
+Hint - Get the personid for inhabitant with name Stranger

@@ -76,3 +76,11 @@ Hint      - update all items with no owner to stranger id
 Challenge - Now list all of the items I have!
 
 Hint      - get all items with owner as stranger
+
+#
+`10-task.sql`
+
+Challenge - Find a friendly inhabitant who is either a dealer or a merchant. 
+Maybe they want to buy some of my items.
+
+Hint      - get all friendly inhabitant with job as dealer or merchant

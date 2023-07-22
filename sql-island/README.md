@@ -101,3 +101,11 @@ Maybe it's not a bad idea to change my name from Stranger to my real name before
 
 
 Hint      - change strangers name to your name(this name will be the name on your certificate)
+
+#
+`13-task.sql`
+
+Challenge - Since baking is one of my hobbies, why not find a baker who I can work for?
+
+
+Hint      - get bakers from inhabitant order by the gold

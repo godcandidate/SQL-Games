@@ -11,7 +11,7 @@ SQL Island is an interactive online game designed to help you master SQL concept
 
 ## Repository Contents
 
-In this repository, it contains the solution to challenges
+In this repository, it contains the solution to challenges. My certificate https://sql-island.informatik.uni-kl.de/cert.php
 
 #
 `1-task.sql`
@@ -117,3 +117,4 @@ Challenge - -- Is there a pilot on this island by any chance? He could fly me ho
 
 
 Hint      - get an inhabitant whose job is a pilot
+

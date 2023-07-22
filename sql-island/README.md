@@ -15,6 +15,8 @@ In this repository, it contains the solution to challenges
 
 #
 `1-task.sql`
+
 Challenge - It seems there are a few people living in these villages. 
 How can I see a list of all inhabitants?
+
 Hint - Get all data from inhabitants

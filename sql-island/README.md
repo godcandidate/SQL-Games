@@ -55,3 +55,10 @@ Hint - Get the personid for inhabitant with name Stranger
 Challenge -I can offer to make you a sword for 150 gold. That's the cheapest you will find! How much gold do you have?
 
 Hint - Get the gold for inhabitant with name Stranger
+
+#
+`7-task.sql`
+
+Challenge - There has to be another option to earn gold other than going to work.Maybe I could collect ownerless items and sell them! Can I make a list of all items that don't belong to anyone?
+
+Hint - Get the data for items with no(null) owners

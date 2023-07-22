@@ -109,3 +109,11 @@ Challenge - Since baking is one of my hobbies, why not find a baker who I can wo
 
 
 Hint      - get bakers from inhabitant order by the gold
+
+#
+`14-task.sql`
+
+Challenge - -- Is there a pilot on this island by any chance? He could fly me home.
+
+
+Hint      - get an inhabitant whose job is a pilot

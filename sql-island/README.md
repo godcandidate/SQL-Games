@@ -48,3 +48,10 @@ Hint - Get all inhabitants who are friendly and their job ends with smith
 Challenge - No need to call me stranger! What's my personid?
 
 Hint - Get the personid for inhabitant with name Stranger
+
+#
+`6-task.sql`
+
+Challenge -I can offer to make you a sword for 150 gold. That's the cheapest you will find! How much gold do you have?
+
+Hint - Get the gold for inhabitant with name Stranger

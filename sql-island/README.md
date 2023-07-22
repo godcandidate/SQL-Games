@@ -34,3 +34,10 @@ Hint - Get all inhabitants who are friendly
 Challenge - There is no way around getting a sword for myself.I will now try to find a friendly weaponsmith to forge me one
 
 Hint - Get all inhabitants who are friendly and their job is weaponsmith
+
+#
+`4-task.sql`
+
+Challenge - I want to find other smiths That looks better! I will go and visit those smiths
+
+Hint - Get all inhabitants who are friendly and their job ends with smith

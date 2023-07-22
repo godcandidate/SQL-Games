@@ -84,3 +84,11 @@ Challenge - Find a friendly inhabitant who is either a dealer or a merchant.
 Maybe they want to buy some of my items.
 
 Hint      - get all friendly inhabitant with job as dealer or merchant
+
+#
+`11-task.sql`
+
+Challenge - -- I'd like to get the ring and the teapot. The rest is nothing but scrap.
+Please give me the two items. My personid is 15.
+
+Hint      - set the ownership for ring and teaport items to owner with id 15

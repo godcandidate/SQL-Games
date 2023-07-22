@@ -27,3 +27,10 @@ Hint - Get all data from inhabitants
 Challenge - Thank you, Edward! Okay, let's see who is friendly on this island...
 
 Hint - Get all inhabitants who are friendly
+
+#
+`3-task.sql`
+
+Challenge - There is no way around getting a sword for myself.I will now try to find a friendly weaponsmith to forge me one
+
+Hint - Get all inhabitants who are friendly and their job is weaponsmith
